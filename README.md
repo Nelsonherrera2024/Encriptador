@@ -18,15 +18,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="Screenshots/1.jpg" alt="Screemshot movil light" width="200">
+      <img src="Pantallazos/1.jpg" alt="Screemshot movil light" width="200">
     </td>
     <td align="center">
-      <img src="Screenshots/2.jpg" alt="Screemshot movil dark" width="200">
+      <img src="Pantallazos/2.jpg" alt="Screemshot movil dark" width="200">
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="Screenshots/3.png" alt="Screemshot desktop" width="400">
+      <img src="Pantallazos/3.png" alt="Screemshot desktop" width="400">
     </td>
   </tr>
 </table>
